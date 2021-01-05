@@ -53,11 +53,11 @@ public class SourceMovement : MonoBehaviour
     Vector3 udp;
     #endregion
 
-    /*private void Start()
+    private void Start()
     {
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
-    }*/
+    }
 
     // Update is called once per frame
     void Update()

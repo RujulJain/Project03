@@ -3180,8 +3180,8 @@ GameObject:
   - component: {fileID: 1516684935}
   - component: {fileID: 1516684936}
   - component: {fileID: 1516684938}
-  - component: {fileID: 1516684937}
   - component: {fileID: 1516684939}
+  - component: {fileID: 1516684937}
   m_Layer: 0
   m_Name: FirstPersonPlayer
   m_TagString: Untagged
